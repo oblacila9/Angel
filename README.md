@@ -27,6 +27,7 @@ In order to prevent rare crashes when loading into a match, it's recommended to 
 ### Extra Training Mode Tools
 - Hitbox display
 - Pause and frame advance hotkeys
+- Save/Load state hotkeys
 
 ## Credits
 Thanks to [Armonté](https://github.com/Armonte) for doing much of the reverse-engineering work that was needed to implement rollback
